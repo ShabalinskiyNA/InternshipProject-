@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "pRsR4KZsYzILp9las4p5HRwkFD6Hd3H/Y1bJFKf+lqQ=",
+  "Source": "DynamicDataGrid.Server",
+  "BasePath": "_content/DynamicDataGrid.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\centaurea\\DynamicDataGrid\\dynamicdatagrid.client\\dynamicdatagrid.client.esproj",
+      "Version": 2,
+      "Source": "dynamicdatagrid.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,1 @@
+D:\centaurea\DynamicDataGrid\dynamicdatagrid.client\obj\Debug\dynamicdatagrid.client.esproj.CoreCompileInputs.cache
